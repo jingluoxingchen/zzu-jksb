@@ -1,5 +1,9 @@
 # 代码运行需要python环境，安装所需模块
-建议pycharm
+建议pycharm 
+
+https://www.jetbrains.com/pycharm/download/#section=windows 
+
+选择Community
 
 安装完python后在终端下输入 
 
